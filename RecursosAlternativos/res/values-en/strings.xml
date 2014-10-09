@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EUA</string>
+    <string name="capital">Metropolis:</string>
+    <string name="idioma">Official language:</string>
+    <string name="populacao">Population:</string>
+    <string name="moeda">Gold:</string>
+    
+    <string name="respostacapital">Washington</string>
+    <string name="respostaidioma">English</string>
+    <string name="respostapopulacao">316,1 Millions</string>
+    <string name="respostamoeda">Dolar</string>
+    
+    
+    <string name="action_settings">Settings</string>
+
+</resources>

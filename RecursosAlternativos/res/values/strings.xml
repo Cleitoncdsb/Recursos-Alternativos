@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brasil</string>
+    <string name="capital">Capital:</string>
+    <string name="idioma">Idioma Oficial:</string>
+    <string name="populacao">População:</string>
+    <string name="moeda">Moeda:</string>
+    
+    <string name="respostacapital">Brasilia</string>
+    <string name="respostaidioma">Português</string>
+    <string name="respostapopulacao">200,4 Milhões</string>
+    <string name="respostamoeda">Real</string>
+    
+    
+    <string name="action_settings">Settings</string>
+
+</resources>
